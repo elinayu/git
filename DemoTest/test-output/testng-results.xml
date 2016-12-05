@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="41" started-at="2016-12-01T08:47:33Z" finished-at="2016-12-01T08:47:33Z">
+    <groups>
+    </groups>
+    <test name="test1" duration-ms="41" started-at="2016-12-01T08:47:33Z" finished-at="2016-12-01T08:47:33Z">
+      <class name="com.demo.example.NewTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.demo.example.NewTest@56f4468b]" name="beforeSuite" is-config="true" duration-ms="12" started-at="2016-12-01T16:47:33Z" finished-at="2016-12-01T16:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.demo.example.NewTest@56f4468b]" name="beforeTest" is-config="true" duration-ms="0" started-at="2016-12-01T16:47:33Z" finished-at="2016-12-01T16:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.demo.example.NewTest@56f4468b]" name="beforeClass" is-config="true" duration-ms="1" started-at="2016-12-01T16:47:33Z" finished-at="2016-12-01T16:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.demo.example.NewTest@56f4468b]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2016-12-01T16:47:33Z" finished-at="2016-12-01T16:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.demo.example.NewTest@56f4468b]" name="f" duration-ms="9" started-at="2016-12-01T16:47:33Z" finished-at="2016-12-01T16:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.demo.example.NewTest@56f4468b]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-01T16:47:33Z" finished-at="2016-12-01T16:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.demo.example.NewTest@56f4468b]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-12-01T16:47:33Z" finished-at="2016-12-01T16:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:com.demo.example.NewTest@56f4468b]" name="testcase2" duration-ms="3" started-at="2016-12-01T16:47:33Z" finished-at="2016-12-01T16:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.demo.example.NewTest@56f4468b]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-12-01T16:47:33Z" finished-at="2016-12-01T16:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.demo.example.NewTest@56f4468b]" name="afterClass" is-config="true" duration-ms="0" started-at="2016-12-01T16:47:33Z" finished-at="2016-12-01T16:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.demo.example.NewTest@56f4468b]" name="afterTest" is-config="true" duration-ms="0" started-at="2016-12-01T16:47:33Z" finished-at="2016-12-01T16:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.demo.example.NewTest@56f4468b]" name="afterSuite" is-config="true" duration-ms="0" started-at="2016-12-01T16:47:34Z" finished-at="2016-12-01T16:47:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.demo.example.NewTest -->
+    </test> <!-- test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
